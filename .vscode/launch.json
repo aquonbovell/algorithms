@@ -1,0 +1,56 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "lab",
+      "request": "launch",
+      "mainClass": "lab",
+      "projectName": "algorithms_40f14e6e"
+    },
+    {
+      "type": "java",
+      "name": "TreeNode",
+      "request": "launch",
+      "mainClass": "TreeNode",
+      "projectName": "algorithms_40f14e6e"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "algorithms_40f14e6e"
+    },
+    {
+      "type": "java",
+      "name": "Lab1",
+      "request": "launch",
+      "mainClass": "Lab1",
+      "projectName": "algorithms_40f14e6e"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "Program",
+      "projectName": "algorithms_40f14e6e"
+    },
+    {
+      "name": ".NET Core Launch (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/bin/Debug/net7.0/algorithms.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    },
+    {
+      "name": ".NET Core Attach",
+      "type": "coreclr",
+      "request": "attach"
+    }
+  ]
+}
