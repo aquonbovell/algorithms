@@ -1,0 +1,13 @@
+// Name: Aquon Bovell , ID: 417002714
+# of iterations = 12, m = 2 , n = 0 and the gcd = 2
+# of iterations = 9, m = 1 , n = 0 and the gcd = 1
+# of iterations = 12, m = 1 , n = 0 and the gcd = 1
+# of iterations = 14, m = 1 , n = 0 and the gcd = 1
+# of iterations = 16, m = 1 , n = 0 and the gcd = 1
+# of iterations = 12, m = 25 , n = 0 and the gcd = 25
+# of iterations = 17, m = 1 , n = 0 and the gcd = 1
+# of iterations = 14, m = 1 , n = 0 and the gcd = 1
+# of iterations = 9, m = 1 , n = 0 and the gcd = 1
+
+Largest number of iterations = 17
+Smallest number of iterations = 9

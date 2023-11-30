@@ -1,0 +1,13 @@
+// Name: Aquon Bovell , ID: 417002714
+Enter num1: 
+1345
+Enter num2: 
+52230
+Value of m: 52230
+Value of n: 1345
+iteration number = 1, r = 1120, m = 52230 and n = 1345
+iteration number = 2, r = 225, m = 1345 and n = 1120
+iteration number = 3, r = 220, m = 1120 and n = 225
+iteration number = 4, r = 5, m = 225 and n = 220
+iteration number = 5, r = 0, m = 220 and n = 5
+The GCD of 52230 and 1345 is 5

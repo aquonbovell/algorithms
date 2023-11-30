@@ -1,0 +1,29 @@
+// StudentID: 417002714, Name: Aquon Bovell
+26, 14, 52, 7, 15, 37, 91, 2, 28, 73, 
+entering quicksort
+starting index: 0 ending index: 9
+entering quicksort
+starting index: 0 ending index: 3
+entering quicksort
+starting index: 0 ending index: 2
+entering quicksort
+starting index: 0 ending index: 0
+entering quicksort
+starting index: 2 ending index: 2
+entering quicksort
+starting index: 4 ending index: 3
+entering quicksort
+starting index: 5 ending index: 9
+entering quicksort
+starting index: 5 ending index: 5
+entering quicksort
+starting index: 7 ending index: 9
+entering quicksort
+starting index: 7 ending index: 6
+entering quicksort
+starting index: 8 ending index: 9
+entering quicksort
+starting index: 8 ending index: 8
+entering quicksort
+starting index: 10 ending index: 9
+2, 7, 14, 15, 26, 28, 37, 52, 73, 91,

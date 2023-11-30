@@ -1,0 +1,14 @@
+/home/raptor/code/algorithms/bin/Debug/net7.0/algorithms
+/home/raptor/code/algorithms/bin/Debug/net7.0/algorithms.deps.json
+/home/raptor/code/algorithms/bin/Debug/net7.0/algorithms.runtimeconfig.json
+/home/raptor/code/algorithms/bin/Debug/net7.0/algorithms.dll
+/home/raptor/code/algorithms/bin/Debug/net7.0/algorithms.pdb
+/home/raptor/code/algorithms/obj/Debug/net7.0/algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/home/raptor/code/algorithms/obj/Debug/net7.0/algorithms.AssemblyInfoInputs.cache
+/home/raptor/code/algorithms/obj/Debug/net7.0/algorithms.AssemblyInfo.cs
+/home/raptor/code/algorithms/obj/Debug/net7.0/algorithms.csproj.CoreCompileInputs.cache
+/home/raptor/code/algorithms/obj/Debug/net7.0/algorithms.dll
+/home/raptor/code/algorithms/obj/Debug/net7.0/refint/algorithms.dll
+/home/raptor/code/algorithms/obj/Debug/net7.0/algorithms.pdb
+/home/raptor/code/algorithms/obj/Debug/net7.0/algorithms.genruntimeconfig.cache
+/home/raptor/code/algorithms/obj/Debug/net7.0/ref/algorithms.dll
